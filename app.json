@@ -7,7 +7,7 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID":MALVIN-XD~FxhyUSAI#R5CzOqKPJFZtp6WcTPIJsq85GW2Pl9i5NxDAe1A8X00 {
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
@@ -47,14 +47,14 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "✦MALVIN-XD✦"
+      "value": "MASEKE"
     },
     
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
+      "required": true,
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -96,7 +96,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀Status Seen by malvin xd v2🚀🔥*"
+      "value": "*🎉👀Status Seen by MASEKE🚀🔥*"
     }, 
 
     "OWNER_NAME": {
